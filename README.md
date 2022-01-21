@@ -1,5 +1,7 @@
 # Omer Dincer Week 2 Case
 
+*Note for my colleagues from Gusto & RemoteTeam Bootcamp, this is exactly same project from last week (Week 2).Please consider as re-view*
+
 This project contains super basic auth middleware with JsonWebToken and express-session
 
 
